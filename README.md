@@ -1,9 +1,6 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-Name:G.Sindhu Priya Reddy
-
-Reg No:212224040319
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
@@ -119,13 +116,13 @@ if(NUM_LOOPS>=10)    {
 
 $ ./sem.o 
 
-![Screenshot 2025-04-30 135817](https://github.com/user-attachments/assets/55ac701d-4f39-4066-977f-04191a4645fc)
+<img width="504" height="821" alt="Screenshot 2025-10-19 110600" src="https://github.com/user-attachments/assets/80b31230-fb01-405f-a867-eeb825e304db" />
 
 
 
 $ ipcs
 
-![Screenshot 2025-04-30 135920](https://github.com/user-attachments/assets/0ecdc39f-21e3-44bb-885a-6c14d07bc645)
+<img width="1000" height="574" alt="Screenshot 2025-10-19 110610" src="https://github.com/user-attachments/assets/e1d4e691-2f82-4de4-8fa7-7b9b1f515b74" />
 
 
 
